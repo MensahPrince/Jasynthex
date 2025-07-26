@@ -1,7 +1,4 @@
-# Yello 
-
 # Read in and assign a True, False, or None value from a JSON string
-
 json_str = input("Enter a JSON string (true, false, null): ")
 
 # Function to parse JSON strings and return corresponding Python values 
