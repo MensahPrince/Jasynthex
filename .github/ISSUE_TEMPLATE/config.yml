@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question
+    about: Have a question about how to use Jasynthex?
+    url: https://github.com/MensahPrince/Jasynthex/discussions/new?category=q-a
