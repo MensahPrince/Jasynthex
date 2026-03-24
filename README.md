@@ -128,8 +128,12 @@ func ProcessLargeResponse(body io.Reader) {
 }
 ```
 
+
 ## Matching Modes
 
 1. **`jasynthex.Exact`** (Default): The key must exactly match the search string character-for-character.
 2. **`jasynthex.CaseInsensitive`**: Bypasses casing difference (e.g. `Email` == `email`).
 3. **`jasynthex.Contains`**: Will return successful matches if the search key substring exists inside any JSON key (e.g. `contactEmail`).
+
+## For any encoutered difficulties, be it bugs or questions, kindly leave behind an issue.
+### Thank you.
