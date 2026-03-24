@@ -7,7 +7,7 @@ Unlike standard JSON unmarshaling, Jasynthex preserves the document order, handl
 ## Installation
 
 ```bash
-go get github.com/MensahPrince/Jasynthex
+go get github.com/MensahPrince/Jasynthex@v1.0.0
 ```
 
 ## Features
